@@ -7,13 +7,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DatSE3805&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DatSE3805&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DatSE3805&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DatSE3805&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="220" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnByMDB2dHYzajI3bmxlZ2ZjaWxzNGJuYjVwYWc5MzhpN25wNTA3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"  />
+<img
+  align="right"
+  height="150"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnByMDB2dHYzajI3bmxlZ2ZjaWxzNGJuYjVwYWc5MzhpN25wNTA3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif"
+  style="margin-left:1000px; margin-bottom:8px;"  />
 
 ###
 
@@ -60,42 +64,42 @@
 <br clear="both"/>
 
 ## 🚀 About Me
+<p><strong>Name:</strong> DAT DUONG NGUYEN TAN </p>
+<p><strong>Role:</strong> Software Engineer </p>
+<p><strong>Location:</strong> Vietnam </p>
+<p><strong>Education:</strong> Computer Science at HCMC University of Technology (HCMUT)</p>
+<p><strong>Passion:</strong> Learning new technologies, problem solving, coding</p>
+<p><strong>Current focus:</strong> Backend development</p>
+<p><strong>Fun fact:</strong> I enjoy playing football, volleyball, badminton, and swimming.</p>
 
-```yaml
-Name: DAT DUONG NGUYEN TAN
-Role: Software Engineer
-Location: Vietnam
-Education: Computer Science Student at Ho Chi Minh City University Of Technology (HCMUT)
-Passion: Learning new technologies, problem solving, coding
-Current focus: Backend development
-Fun fact: I enjoy playing football, volleyball, badminton, and swimming.
+### 🎯 Have a background in
+- [ ] probability & statistics, linear algebra
+- [ ] data structures & algorithms
+- [ ] functional programing
+- [ ] HTML, CSS
 
-🔭 What I'm currently working on
-  🌱 Learning
-      Software engineering
-      Database systems
-      Computer networks
-  👯 Looking to collaborate on
-      Open source projects
-  🤔 Exploring
-      Cloud computing
-  💬 Ask me about 
-      C++, Python, Java
+### 📌 Now
+- 🔭 <strong>Working on:</strong> Personal/backend projects  
+- 🌱 <strong>Learning:</strong> Software Engineering, Database Systems, Computer Networks  
+- 👯 <strong>Open to:</strong> Collaborating on open-source projects  
+- 🤔 <strong>Exploring:</strong> Cloud computing  
+- 💬 <strong>Ask me about:</strong> C++, Python, Java
 
-[] Have a solid understanding of probability and statistics, linear algebra
-[] Be proficient in data structures and algorithms
-[] Contribute to more than 5 projects
-[] Learn Docker
+### 📌 Future
+- [ ] Learning Docker
+- [ ] Learning Cloud computing
+- [ ] Build scalable systems
+- [ ] Contribute to open source projects
 
-📊 GitHub Statistics
+## 📈 Coding Activity
 
-📈 Coding Activity
-
-C++          ████████████████████████████████████████    80.0 %
-Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    8.0 %
-Java         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0 %
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0 %
-R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
+```text
+C++          ███████████████████████████████████░░░░░      80.0 %
+Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      8.0 %
+Java         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
+HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
+R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      2.0 %
+```
 
 
 | Project                     |           Tech Stack             |     Status   |
@@ -108,19 +112,20 @@ R            ░░░░░░░░░░░░░░░░░░░░░░�
 | 📈 Stock Monitoring System | Java, design patterns            | ✅ Completed |
 | 📝 Symbol Table Simulator  | Python, functional programming   | ✅ Completed |
 
-📚 Leetcode
-Solved: 40 easy, 10 medium, 2 hard
-Focus: Linked list, graph, tree, stack, queue
+### 📚 Leetcode
+- Solved: 40 easy, 10 medium, 2 hard
+- Focus: Linked list, graph, tree, stack, queue
 
-📊 Weekly Development Breakdown
-
+## 📊 Weekly Development Breakdown
+```text
 🌞 Morning    127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5%
 🌆 Daytime    245 commits    █████████░░░░░░░░░░░░░░░░   35.7%
 🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   28.8%
 🌙 Night      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+```
 
-📅 I'm Most Productive On
-
+## 📅 I'm Most Productive On
+```text
 Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.3%
 Tuesday      87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
 Wednesday    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9%
@@ -128,3 +133,4 @@ Thursday     95 commits     ███░░░░░░░░░░░░░░�
 Friday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.0%
 Saturday     145 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1%
 Sunday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░    7.3%
+```
