@@ -61,8 +61,8 @@
 ```yaml
 Name: DAT DUONG NGUYEN TAN
 Role: Software Engineer
-Location: "Vietnam"
-Education: "Computer Science Student at Ho Chi Minh City University Of Technology (HCMUT)"
+Location: Vietnam
+Education: Computer Science Student at Ho Chi Minh City University Of Technology (HCMUT)
 Passion: Learning new technologies, problem solving, coding
 Current focus: Backend development
 Fun fact: I enjoy playing football, volleyball, badminton, and swimming.
