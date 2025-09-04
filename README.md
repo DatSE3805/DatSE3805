@@ -72,36 +72,28 @@
 <p><strong>Current focus:</strong> Backend development</p>
 <p><strong>Fun fact:</strong> I enjoy playing football, volleyball, badminton, and swimming.</p>
 
-### 🎯 Have a background in
+[👉 More information about me](https://preview--datse3805.lovable.app/)
+
+### 🎓 Have a background in
 - [ ] probability & statistics, linear algebra
 - [ ] data structures & algorithms
 - [ ] functional programing
 - [ ] HTML, CSS
 
-### 📌 Now
-- 🔭 <strong>Working on:</strong> Personal/backend projects  
-- 🌱 <strong>Learning:</strong> Software Engineering, Database Systems, Computer Networks  
-- 👯 <strong>Open to:</strong> Collaborating on open-source projects  
-- 🤔 <strong>Exploring:</strong> Cloud computing  
-- 💬 <strong>Ask me about:</strong> C++, Python, Java
+### 🧠 Now
+- [ ] <strong>Working on:</strong> Personal/backend projects  
+- [ ] <strong>Learning:</strong> Software Engineering, Database Systems, Computer Networks  
+- [ ] <strong>Open to:</strong> Collaborating on open-source projects  
+- [ ] <strong>Exploring:</strong> Cloud computing  
+- [ ] <strong>Ask me about:</strong> C++, Python, Java
 
-### 📌 Future
+### 🎯 Future goals
 - [ ] Learning Docker
 - [ ] Learning Cloud computing
 - [ ] Build scalable systems
 - [ ] Contribute to open source projects
 
-## 📈 Coding Activity
-
-```text
-C++          ███████████████████████████████████░░░░░      80.0 %
-Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      8.0 %
-Java         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
-R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      2.0 %
-```
-
-
+### Personal projects
 | Project                     |           Tech Stack             |     Status   |
 | --------------------------- | -------------------------------  | -------------|
 | 📚 List & Neural Net       | C++, xtensor, OOP                | ✅ Completed |
@@ -112,25 +104,23 @@ R            ░░░░░░░░░░░░░░░░░░░░░░�
 | 📈 Stock Monitoring System | Java, design patterns            | ✅ Completed |
 | 📝 Symbol Table Simulator  | Python, functional programming   | ✅ Completed |
 
-### 📚 Leetcode
+### Leetcode
 - Solved: 40 easy, 10 medium, 2 hard
 - Focus: Linked list, graph, tree, stack, queue
 
-## 📊 Weekly Development Breakdown
+## Coding Activity
+```text
+C++          ███████████████████████████████████░░░░░      80.0 %
+Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      8.0 %
+Java         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
+HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
+R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      2.0 %
+```
+
+## Weekly Development Breakdown
 ```text
 🌞 Morning    127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5%
 🌆 Daytime    245 commits    █████████░░░░░░░░░░░░░░░░   35.7%
 🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   28.8%
 🌙 Night      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0%
-```
-
-## 📅 I'm Most Productive On
-```text
-Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.3%
-Tuesday      87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
-Wednesday    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9%
-Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
-Friday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.0%
-Saturday     145 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1%
-Sunday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░    7.3%
 ```
