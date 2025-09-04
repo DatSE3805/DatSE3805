@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋, I'm DAT DUONG NGUYEN TAN</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+DAT+DUONG+NGUYEN+TAN;Software+Engineering;" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -51,3 +53,75 @@
 </div>
 
 ###
+<img align="right" height="150" src="https://media4.giphy.com/.../giphy.gif" />
+<br clear="both"/>
+
+## 🚀 About Me
+
+```yaml
+Name: DAT DUONG NGUYEN TAN
+Role: Software Engineer
+Location: "Vietnam"
+Education: "Computer Science Student at Ho Chi Minh City University Of Technology (HCMUT)"
+Passion: Learning new technologies, problem solving, coding
+Current focus: Backend development
+Fun fact: I enjoy playing football, volleyball, badminton, and swimming.
+
+🔭 What I'm currently working on
+  🌱 Learning
+      Software engineering
+      Database systems
+      Computer networks
+  👯 Looking to collaborate on
+      Open source projects
+  🤔 Exploring
+      Cloud computing
+  💬 Ask me about 
+      C++, Python, Java
+
+[] Have a solid understanding of probability and statistics, linear algebra
+[] Be proficient in data structures and algorithms
+[] Contribute to more than 5 projects
+[] Learn Docker
+
+📊 GitHub Statistics
+
+📈 Coding Activity
+
+C++          ████████████████████████████████████████    80.0 %
+Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    8.0 %
+Java         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0 %
+HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.0 %
+R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
+
+
+| Project                    |                                                    Description                                                                  |           Tech Stack            |     Status    |
+| ---------------------------| --------------------------------------------------------------------------------------------------------------------------------| ------------------------------- | --------------|
+| 📚 List & Neural Net       | Built custom XArrayList & DLinkedList, applied to create a simple Multi-Layer Perceptron                                        | C++, xtensor, OOP               | ✅ Completed |
+| 🗂️ HashMap & Heap Trainer  | Implemented xMap (hash table) + Heap, integrated into training pipeline for feedforward neural networks                         | C++, templates, DLinkedList     | ✅ Completed |
+| 🔗 Graph & Backprop        | Developed Graph data structures (directed & undirected), used to simulate forward/backward propagation in computational graphs  | C++, graph API, iterators       | ✅ Completed |
+| 🎮 Gomoku Console Game     | Re-implemented Five-in-a-Row with extra rules (no overline, two-headed block), added replay mode                                | C++, arrays, functions, structs | ✅ Completed |
+| ⚔️ Battle Simulator        | OOP design of Knight, Warrior, Paladin, DeathEater with combat rules (HP, WP, Fibonacci bonus, Complex MP)                      | Java, inheritance, polymorphism | ✅ Completed |
+| 📈 Stock Monitoring System | Real-time stock tracker using Observer, Adapter, Singleton patterns; simulates HOSE & HNX feeds                                 | Java, design patterns           | ✅ Completed |
+| 📝 Symbol Table Simulator  | Implemented Symbol Table with lists; handled `INSERT`, `ASSIGN`, `BEGIN/END`, semantic errors (Undeclared, Redeclared, etc.)    | Python, functional programming  | ✅ Completed |
+
+📚 Leetcode
+Solved: 40 easy, 10 medium, 2 hard
+Focus: Linked list, graph, tree, stack, queue
+
+📊 Weekly Development Breakdown
+
+🌞 Morning    127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5%
+🌆 Daytime    245 commits    █████████░░░░░░░░░░░░░░░░   35.7%
+🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   28.8%
+🌙 Night      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0%
+
+📅 I'm Most Productive On
+
+Monday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.3%
+Tuesday      87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7%
+Wednesday    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.9%
+Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
+Friday       110 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.0%
+Saturday     145 commits    █████░░░░░░░░░░░░░░░░░░░░   21.1%
+Sunday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░    7.3%
