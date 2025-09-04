@@ -95,15 +95,15 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
 
 
-| Project                    |                                                    Description                                                                  |           Tech Stack            |     Status    |
-| ---------------------------| --------------------------------------------------------------------------------------------------------------------------------| ------------------------------- | --------------|
-| 📚 List & Neural Net       | Built custom XArrayList & DLinkedList, applied to create a simple Multi-Layer Perceptron                                        | C++, xtensor, OOP               | ✅ Completed |
-| 🗂️ HashMap & Heap Trainer  | Implemented xMap (hash table) + Heap, integrated into training pipeline for feedforward neural networks                         | C++, templates, DLinkedList     | ✅ Completed |
-| 🔗 Graph & Backprop        | Developed Graph data structures (directed & undirected), used to simulate forward/backward propagation in computational graphs  | C++, graph API, iterators       | ✅ Completed |
-| 🎮 Gomoku Console Game     | Re-implemented Five-in-a-Row with extra rules (no overline, two-headed block), added replay mode                                | C++, arrays, functions, structs | ✅ Completed |
-| ⚔️ Battle Simulator        | OOP design of Knight, Warrior, Paladin, DeathEater with combat rules (HP, WP, Fibonacci bonus, Complex MP)                      | Java, inheritance, polymorphism | ✅ Completed |
-| 📈 Stock Monitoring System | Real-time stock tracker using Observer, Adapter, Singleton patterns; simulates HOSE & HNX feeds                                 | Java, design patterns           | ✅ Completed |
-| 📝 Symbol Table Simulator  | Implemented Symbol Table with lists; handled `INSERT`, `ASSIGN`, `BEGIN/END`, semantic errors (Undeclared, Redeclared, etc.)    | Python, functional programming  | ✅ Completed |
+| Project                     |           Tech Stack             |     Status   |
+| --------------------------- | -------------------------------  | -------------|
+| 📚 List & Neural Net       | C++, xtensor, OOP                | ✅ Completed |
+| 🗂️ HashMap & Heap Trainer  | C++, templates, DLinkedList      | ✅ Completed |
+| 🔗 Graph & Backprop        | C++, graph API, iterators        | ✅ Completed |
+| 🎮 Gomoku Console Game     | C++, arrays, functions, structs  | ✅ Completed |
+| ⚔️ Battle Simulator        | Java, inheritance, polymorphism  | ✅ Completed |
+| 📈 Stock Monitoring System | Java, design patterns            | ✅ Completed |
+| 📝 Symbol Table Simulator  | Python, functional programming   | ✅ Completed |
 
 📚 Leetcode
 Solved: 40 easy, 10 medium, 2 hard
