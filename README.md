@@ -64,10 +64,10 @@
 <br clear="both"/>
 
 ## 🚀 About Me
-<p><strong>Name:</strong> DAT DUONG NGUYEN TAN </p>
-<p><strong>Role:</strong> Software Engineer </p>
+<p><strong>Name:</strong> DƯƠNG NGUYỄN TẤN ĐẠT </p>
+<p><strong>Education:</strong> Computer Science at Ho Chi Minh City University of Technology (HCMUT)</p>
 <p><strong>Location:</strong> Vietnam </p>
-<p><strong>Education:</strong> Computer Science at HCMC University of Technology (HCMUT)</p>
+<p><strong>Role:</strong> Software Engineer </p>
 <p><strong>Passion:</strong> Learning new technologies, problem solving, coding</p>
 <p><strong>Current focus:</strong> Backend development</p>
 <p><strong>Fun fact:</strong> I enjoy playing football, volleyball, badminton, and swimming.</p>
@@ -75,23 +75,22 @@
 [👉 More information about me](https://preview--datse3805.lovable.app/)
 
 ### 🎓 Have a background in
-- [ ] probability & statistics, linear algebra
-- [ ] data structures & algorithms
-- [ ] functional programing
+- [ ] Fundamental programing
+- [ ] Computer architectures
+- [ ] Linear algebra, probability & statistics
+- [ ] Data structures & algorithms
+- [ ] OOP & functional programing
 - [ ] HTML, CSS
 
 ### 🧠 Now
-- [ ] <strong>Working on:</strong> Personal/backend projects  
-- [ ] <strong>Learning:</strong> Software Engineering, Database Systems, Computer Networks  
-- [ ] <strong>Open to:</strong> Collaborating on open-source projects  
-- [ ] <strong>Exploring:</strong> Cloud computing  
-- [ ] <strong>Ask me about:</strong> C++, Python, Java
+- [ ] <strong>Working on:</strong> Personal/backend projects
+- [ ] <strong>Learning:</strong> Software Engineering, Database Systems, Computer Networks
+- [ ] <strong>Exploring:</strong> Cloud computing
 
 ### 🎯 Future goals
 - [ ] Learning Docker
-- [ ] Learning Cloud computing
 - [ ] Build scalable systems
-- [ ] Contribute to open source projects
+- [ ] Contribute to more open-source projects
 
 ### Personal projects
 | Project                     |           Tech Stack             |     Status   |
@@ -115,12 +114,4 @@ Python       ████░░░░░░░░░░░░░░░░░░�
 Java         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
 HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      5.0 %
 R            ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░      2.0 %
-```
-
-## Weekly Development Breakdown
-```text
-🌞 Morning    127 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5%
-🌆 Daytime    245 commits    █████████░░░░░░░░░░░░░░░░   35.7%
-🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   28.8%
-🌙 Night      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.0%
 ```
